@@ -3,7 +3,9 @@
 > Foundational governance: AWS Organizations with OUs, a guardrail SCP, and org-wide CloudTrail logging — provisioned with Terraform.
 > **Author:** Muhammad Ahmad · **IaC:** Terraform · **Cloud:** AWS
 
-![Terraform](https://img.shields.io/badge/Terraform-1.5%2B-7B42BC?logo=terraform&logoColor=white)
+![Terraform CI](https://github.com/AhmadMughal-DS/aws-landing-zone-organizations-terraform/actions/workflows/terraform.yml/badge.svg)
+![Terraform](https://img.shields.io/badge/Terraform-1.6%2B-7B42BC?logo=terraform&logoColor=white)
+![Security](https://img.shields.io/badge/scanned-tfsec%20%7C%20checkov-success)
 ![AWS](https://img.shields.io/badge/AWS-Organizations%20%7C%20SCP%20%7C%20CloudTrail-FF9900?logo=amazonaws&logoColor=white)
 ![License](https://img.shields.io/badge/License-MIT-green)
 
